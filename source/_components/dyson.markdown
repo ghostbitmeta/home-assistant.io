@@ -42,7 +42,7 @@ password:
   required: true
   type: string
 language:
-  description: "Dyson account language country code. Known working codes: `FR`, `NL`, `GB`, `AU`. Other codes should be supported."
+  description: "Dyson account language country code. Known working codes: `FR`, `NL`, `GB`, `AU`, `US`. Other codes should be supported."
   required: true
   type: string
 devices:
